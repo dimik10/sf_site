@@ -1,2 +1,2 @@
 Test_message
-add comment Dmitry
+add comment user Dmirty
